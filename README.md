@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Illia Fedenko</h1>
+<h3 align="center">Administrative Mobile App developer based in Ukraine</h3>
 
-<!--
-**illiafedenko/illiafedenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on upwork as freelancer. This is my [Upwork Profile](https://www.upwork.com/freelancers/~01eba6dbc7c163b1e6)
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate with team.
+- 🤔 I’m looking for help clients and teammates with my ability and skills.
+- 💬 Ask me about Flutter, React Native, Kotlin, Java, Swift and etc. I am good at mobile development tech frameworks. It's my specialty.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=illiafedenko&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illiafedenko&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
